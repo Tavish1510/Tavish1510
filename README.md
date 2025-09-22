@@ -35,13 +35,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tavish-tayal/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
   </a> 
   <b>LinkedIn:</b> Let’s connect professionally and talk data, AI or ML!  
   <br><br>
   
   <a href="mailto:tavishtayal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20"/>
   </a> 
   <b>Email:</b> Open to any Data Scientist/ Machine Learning Engineer opportunities! 
   <br><br>
