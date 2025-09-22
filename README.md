@@ -1,35 +1,55 @@
-# Hello 👋, I'm Tavish!
+<!-- Banner / Greeting -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋,%20I'm%20Tavish%20Tayal%20&animation=fadeIn" />
+</p>
 
-## About Me
-- B.E. in Electrical and Electronics @ BITS Pilani
-- Data Science 
+---
 
-## Skills & Expertise
+## 👩‍💻 About Me  
 
-### Machine Learning & AI
-- Python (Pandas, NumPy, Scikit-learn, etc.), PyTorch, TensorFlow
+🎓 **Bachelor of Engineering in Electrical and Electronics** @ BITS Pilani 
+📍 **AI Research Assistant** @ Booth School of Business, UChicago  
 
-### Big Data & Cloud
-- BigQuery
-- GCP
+💼 **Industry Experience**:  
+- **6 Month Internship at PwC** (Data, Analytics & Cloud) 
 
-### Programming & Databases
+## 🚀 Skills & Expertise  
+
+**Machine Learning & AI**  
+- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow) 
+
+**Big Data & Cloud**  
+- BigQuery  
+- GCP  
+
+**Programming & Databases**  
 - Python, SQL, C
 
-### Visualization & Analytics
-- Power BI, Tableau, Advanced Excel
+**Visualization & Analytics**  
+- Power BI, Tableau, Advanced Excel, 
 
-<!--
-**Tavish1510/Tavish1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Please feel free to reach out if you’d like to discuss any of these projects in more detail! 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tavish-tayal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a> 
+  <b>LinkedIn:</b> Let’s connect professionally and talk data, AI or ML!  
+  <br><br>
+  
+  <a href="mailto:tavishtayal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a> 
+  <b>Email:</b> Open to any Data Scientist/ Machine Learning Engineer opportunities! 
+  <br><br>
+</p>
+
+---
+
+<p align="center">
+  <em>“I bring together a product mindset and deep technical skills - turning complex data and AI challenges into practical, high-impact solutions.”</em> 🚀
+</p>
