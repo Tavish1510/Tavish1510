@@ -15,7 +15,9 @@
 ## 🚀 Skills & Expertise  
 
 **Machine Learning & AI**  
-- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow) 
+- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
+- Natural Language Processing, Reinforcement Learning
+- Deep Learning (Convolutional Neural Networks)
 
 **Big Data & Cloud**  
 - BigQuery  
