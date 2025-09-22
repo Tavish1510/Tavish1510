@@ -10,7 +10,7 @@
 🎓 **Bachelor of Engineering in Electrical and Electronics** @ BITS Pilani 
 
 💼 **Industry Experience**:  
-- **6 Month Internship at PwC** (Data, Analytics & Cloud) 
+- **Internship at PricewaterhouseCoopers LLP** (Data, Analytics & Cloud) 
 
 ## 🚀 Skills & Expertise  
 
