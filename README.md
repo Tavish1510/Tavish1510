@@ -8,7 +8,6 @@
 ## 👩‍💻 About Me  
 
 🎓 **Bachelor of Engineering in Electrical and Electronics** @ BITS Pilani 
-📍 **AI Research Assistant** @ Booth School of Business, UChicago  
 
 💼 **Industry Experience**:  
 - **6 Month Internship at PwC** (Data, Analytics & Cloud) 
