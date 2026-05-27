@@ -24,7 +24,7 @@
 - GCP  
 
 **Programming & Databases**  
-- Python, SQL, C
+- Python, SQL
 
 **Visualization & Analytics**  
 - Power BI, Tableau, Advanced Excel, 
