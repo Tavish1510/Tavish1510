@@ -1,56 +1,39 @@
-<!-- Banner / Greeting -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋,%20I'm%20Tavish%20Tayal%20&animation=fadeIn" />
-</p>
+### Hi, I'm Tavish 👋
+
+Final-year Electrical Engineering student at **BITS Pilani**, heading to **UT Dallas** in Fall 2026 for an MS in Business Analytics & AI (Data Science track). I work on the data engineering / ML side of things — Spark, lakehouses, transformer fine-tuning, and end-to-end systems that ship.
 
 ---
 
-## 👩‍💻 About Me  
+### 🛠️ What I work with
 
-🎓 **Bachelor of Engineering in Electrical and Electronics** @ BITS Pilani 
-
-💼 **Industry Experience**:  
-- **Internship at PricewaterhouseCoopers LLP** (Data, Analytics & Cloud) 
-
-## 🚀 Skills & Expertise  
-
-**Machine Learning & AI**  
-- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
-- Natural Language Processing, Reinforcement Learning
-- Deep Learning (Convolutional Neural Networks)
-
-**Big Data & Cloud**  
-- BigQuery  
-- GCP  
-
-**Programming & Databases**  
-- Python, SQL
-
-**Visualization & Analytics**  
-- Power BI, Tableau, Advanced Excel, 
-
-✨ Please feel free to reach out if you’d like to discuss any of these projects in more detail! 
+**Languages & query** &nbsp;·&nbsp; Python, SQL, PySpark
+**Big data & cloud** &nbsp;·&nbsp; Databricks, Delta Lake, GCP (BigQuery, Vertex AI), HuggingFace Hub
+**ML / DL** &nbsp;·&nbsp; PyTorch, Transformers, scikit-learn, fine-tuning, RAG, vector search
+**Data science** &nbsp;·&nbsp; Pandas, NumPy, SciPy, statistical inference, cohort analysis
+**Apps & ops** &nbsp;·&nbsp; Streamlit, Jupyter, GitHub Actions
 
 ---
 
-## 🌐 Connect With Me  
+### 📌 Featured projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tavish-tayal/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="15" />
-  </a> 
-  <b>LinkedIn:</b> Let’s connect professionally and talk data, AI or ML!  
-  <br><br>
-  
-  <a href="mailto:tavishtayal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="15"/>
-  </a> 
-  <b>Email:</b> Open to any Data Scientist/ Machine Learning Engineer opportunities! 
-  <br><br>
-</p>
+🧠 **[Financial News Sentiment Analysis](https://github.com/Tavish1510/Financial-News-sentiment-analysis)** &nbsp;·&nbsp; *PyTorch · HuggingFace · Streamlit*
+DistilBERT fine-tuned on the Financial PhraseBank (**92.17% test accuracy**, F1-macro **0.91**), deployed via HF Hub with a 4-page Streamlit app supporting batch analysis, live RSS news scoring, and attention-based explainability. **[Live demo →](https://financial-news-sentiment-analysis-tavish.streamlit.app/)**
+
+🏗️ **[Reddit Lakehouse Analytics](https://github.com/Tavish1510/reddit-lakehouse-analytics)** &nbsp;·&nbsp; *PySpark · Delta Lake · ChromaDB*
+End-to-end data pipeline across 16 subreddits using a Bronze/Silver/Gold medallion architecture on Delta Lake, with a semantic search layer powered by Sentence-Transformers + ChromaDB. **[Live demo →](https://reddit-lakehouse-analytics-kjcdrfnrdfvxkwe3tsqvu5.streamlit.app/)**
+
+📊 **[OkCupid User Analytics](https://github.com/Tavish1510/okcupid-user-analytics)** &nbsp;·&nbsp; *Pandas · SciPy · Streamlit*
+Exploratory analysis of ~60K dating profiles — data cleaning, feature engineering, Pearson correlation with 95% CIs (Fisher z-transform), Welch's t-tests for cohort comparisons, and an interactive dashboard.
 
 ---
 
-<p align="center">
-  <em>“I bring together a product mindset and deep technical skills - turning complex data and AI challenges into practical, high-impact solutions.”</em> 🚀
-</p>
+### 💼 Experience
+
+**Management Intern — PricewaterhouseCoopers Services LLP** &nbsp;·&nbsp; Jul – Dec 2025
+Customer analytics on GCP: K-means segmentation across 10K+ transactions, CLTV prediction via CrystalValue on BigQuery + Vertex AI, 3D behavioral visualizations in Python.
+
+---
+
+### 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/tavish-tayal/) &nbsp;·&nbsp; [Email](mailto:tavishtayal@gmail.com) &nbsp;·&nbsp; [HuggingFace](https://huggingface.co/Tavish15100)
