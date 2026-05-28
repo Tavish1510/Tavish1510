@@ -1,6 +1,6 @@
 ### Hi, I'm Tavish 👋
 
-Final-year Electrical Engineering student at **BITS Pilani**, heading to **UT Dallas** in Fall 2026 for an MS in Business Analytics & AI (Data Science track). I work on the data engineering / ML side of things — Spark, lakehouses, transformer fine-tuning, and end-to-end systems that ship.
+Bachelor of Engineering - Electrical Engineering Graduate from **BITS Pilani**, heading to **UT Dallas** in Fall 2026 for an MS in Business Analytics & AI (Data Science track). I work on the data engineering / ML side of things — Spark, lakehouses, transformer fine-tuning, and end-to-end systems that ship.
 
 ---
 
