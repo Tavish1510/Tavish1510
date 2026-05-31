@@ -23,7 +23,7 @@ DistilBERT fine-tuned on the Financial PhraseBank (**92.17% test accuracy**, F1-
 End-to-end data pipeline across 16 subreddits using a Bronze/Silver/Gold medallion architecture on Delta Lake, with a semantic search layer powered by Sentence-Transformers + ChromaDB. **[Live demo →](https://reddit-lakehouse-analytics-kjcdrfnrdfvxkwe3tsqvu5.streamlit.app/)**
 
 📊 **[OkCupid User Analytics](https://github.com/Tavish1510/okcupid-user-analytics)** &nbsp;·&nbsp; *Pandas · SciPy · Streamlit*
-Exploratory analysis of ~60K dating profiles — data cleaning, feature engineering, Pearson correlation with 95% CIs (Fisher z-transform), Welch's t-tests for cohort comparisons, and an interactive dashboard.
+Exploratory analysis of ~60K dating profiles — data cleaning, feature engineering, Pearson correlation with 95% CIs (Fisher z-transform), Welch's t-tests for cohort comparisons, and an interactive dashboard. **[Live demo →](https://okcupid-analytics.streamlit.app/)**
 
 ---
 
